@@ -1,7 +1,7 @@
 ## Hi there, I am Muhammad Muzzammil Rana👋
 
 # 💫 About Me:
-🚀 I am a Small Developer<br>💡 I am Learning Web Devolopment<br>🛠 I know MS Office, Canva, Adobe Illustrator and more<br>🎨 These are Small Efforts/Repositries with mistakes that I hope you love
+🚀Web Developer learning new technologies, Front‑end developer focusing on responsive design<br>💡 I am Learning Web Devolopment<br>🛠 I know MS Office, Canva, Adobe Illustrator and more<br>🎨 These are Small Efforts/Repositries with mistakes that I hope you love
 
 
 ## 🌐 Socials:
